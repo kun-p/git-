@@ -9,4 +9,8 @@ public class git {
         System.out.println("hello git project");
         System.out.println("hello git project");
     }
+    protected void test() {
+        int i = 0;
+        i +=10;
+    }
 }
